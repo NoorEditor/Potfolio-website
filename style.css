@@ -362,7 +362,7 @@ nav .fas{
   display: none;
 }
 
-@media only screen and (max-width: 223px){
+@media only screen and (max-width: 900px){
   #header{
     background-image: url(images1/phone-back.png);
   }
